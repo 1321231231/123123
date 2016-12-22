@@ -1,1 +1,1 @@
-alert("Good Boy");
+alert("Hay");
